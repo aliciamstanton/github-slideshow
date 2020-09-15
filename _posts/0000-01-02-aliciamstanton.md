@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Nothing Good ever comes easy!"
 Use the left arrow to go back!
